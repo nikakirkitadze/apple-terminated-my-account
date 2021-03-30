@@ -36,5 +36,5 @@ I don't feel so sorry about this, since I have done many interesting things in t
 
 The things happened to me, it will happen again to another indie hacker some day, who knows?
 
-# Reference & Inspiration: https://github.com/cyanzhong/apple-terminated-my-dev-account
+Reference & Inspiration: https://github.com/cyanzhong/apple-terminated-my-dev-account
 
